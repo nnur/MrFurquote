@@ -1,0 +1,16 @@
+{
+  "name": "wisebot",
+  "version": "1.0.0",
+  "description": "messenger bot for daily quotes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naila Nur",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.9.2",
+    "superagent": "^2.0.0"
+  }
+}
